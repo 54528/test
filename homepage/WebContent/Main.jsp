@@ -38,7 +38,8 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 .fa-anchor,.fa-coffee {font-size:200px}
 </style>
 <body>
-
+<h1>뭐냐이거</h1>
+<h2>같게해야되</h2>
 <header class="w3-container w3-red w3-center" style="padding:128px 16px">
   <h1 class="w3-margin w3-jumbo">Welcome to my homepage</h1>
   <p class="w3-xlarge">로그인을 하시면 더욱 더 많은 정보를 이용할 수 있습니다</p>
